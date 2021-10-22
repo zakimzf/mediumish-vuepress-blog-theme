@@ -25,7 +25,7 @@ itemtype="https://schema.org/BlogPosting"
 
 <div class="row justify-content-center text-center mt-4 mb-40">
   <div class="col-md-9">
-    <img class="featuredimg" :src="$frontmatter.featuredimg">
+  
   </div>
 </div>
 
